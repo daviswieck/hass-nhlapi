@@ -1,11 +1,11 @@
-NHL Team |	Primary Color	| Secondary Color
-Anaheim Ducks|	0, 48, 143|	209, 209, 209
-Arizona Coyotes|	139, 41, |24	227, 187, 114
-Boston Bruins|	255, 199, 44|	0, 0, 0
-Buffalo Sabres|	0, 38, 84	|252, 181, 24
-Calgary Flames|	200, 16, 46|	241, 90, 36
-Carolina Hurricanes|	228, 24, 54|	0, 0, 0
-Chicago Blackhawks|	206, 17, 65|	0, 0, 0
+|NHL Team |	Primary Color	| Secondary Color|
+|Anaheim Ducks|	0, 48, 143|	209, 209, 209|
+|Arizona Coyotes|	139, 41, |24	227, 187, 114|
+|Boston Bruins|	255, 199, 44|	0, 0, 0|
+|Buffalo Sabres|	0, 38, 84	|252, 181, 24|
+|Calgary Flames|	200, 16, 46|	241, 90, 36|
+|Carolina Hurricanes|	228, 24, 54|	0, 0, 0|
+|Chicago Blackhawks|	206, 17, 65|	0, 0, 0|
 Colorado Avalanche|	111, 38, 61|	35, 97, 146
 Columbus Blue Jackets|	0, 38, 84|	200, 16, 46
 Dallas Stars|	0, 104, 71|	186, 186, 186
