@@ -28,5 +28,5 @@
 | St. Louis Blues       | 0, 47, 135    | 252, 181, 24   |
 | Tampa Bay Lightning   | 0, 0, 0       | 255, 199, 44   |
 | Toronto Maple Leafs   | 0, 31, 91     | 186, 12, 47    |
-| Vancouver Canucks     | 4, 30
+| Vancouver Canucks     | 4, 30, 44     | 10, 134, 61    |
 
